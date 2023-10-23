@@ -1,4 +1,9 @@
+<div>
+<img src= "https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?w=740&t=st=1698072726~exp=1698073326~hmac=0457c0098fa9f76ffecec3b8d54e7679500ca3f904ca23d9b1120e7f5c0bdb58">
+
 ### Hi, i am Bruno da Silva Vargas:
+
+
 <div style><br/>
 
 <img src="https://media.tenor.com/yF1WOv1t5WEAAAAd/dave-chappelle-really.gif"
@@ -18,4 +23,7 @@ width="100" height="100"/>
 <img align="center" alt="html5"src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img align="center" alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+
+
+</div><br/>
 
