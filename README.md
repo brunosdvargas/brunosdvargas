@@ -1,5 +1,5 @@
-<div style><br/>
-<img src="https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg?w=740&t=st=1698073382~exp=1698073982~hmac=bddc4ddf25defe2ef26ad892338c5b39b9944385dfc9de52ad7b37f05bca03c1"
+<div style= "display: inline_block"><br/>
+<img align= "center" src="https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg?w=740&t=st=1698073382~exp=1698073982~hmac=bddc4ddf25defe2ef26ad892338c5b39b9944385dfc9de52ad7b37f05bca03c1"
 width="640" height="320"/>
 </div>
 
