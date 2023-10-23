@@ -1,5 +1,7 @@
-<div>
-<img src= "https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?w=740&t=st=1698072726~exp=1698073326~hmac=0457c0098fa9f76ffecec3b8d54e7679500ca3f904ca23d9b1120e7f5c0bdb58">
+<div style><br/>
+<img src="https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg?w=740&t=st=1698073382~exp=1698073982~hmac=bddc4ddf25defe2ef26ad892338c5b39b9944385dfc9de52ad7b37f05bca03c1"
+width="640" height="320"/>
+</div>
 
 ### Hi, i am Bruno da Silva Vargas:
 
