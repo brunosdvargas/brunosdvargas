@@ -1,6 +1,9 @@
 ### Hi, i am Bruno da Silva Vargas:
 <div style><br/>
-<img src="https://media.tenor.com/yF1WOv1t5WEAAAAd/dave-chappelle-really.gif">
+
+<img src="https://media.tenor.com/yF1WOv1t5WEAAAAd/dave-chappelle-really.gif"
+width="100" height="100"/>
+</div>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-vargas-66321b248)
