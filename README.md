@@ -1,4 +1,7 @@
 ### Hi, i am Bruno da Silva Vargas:
+![dave-chapelle-dancing](https://github.com/brunosdvargas/brunosdvargas/assets/63839901/d4793c86-e093-41c0-a8ba-f5652cf3cb63)
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-vargas-66321b248)
 
 ![Brunosdvargas stats](https://github-readme-stats.vercel.app/api?username=brunosdvargas&show_icons=true&bg_color=00000000)
