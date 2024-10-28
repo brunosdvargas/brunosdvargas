@@ -1,7 +1,7 @@
 <h3 align="center">I`am a learning and passionate developer from Brazil always looking forward to the next big project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosdvargas&label=Profile%20views&color=0e75b6&style=flat" alt="brunosdvargas" /> </p>
-<p align="left"> <img src=https://www.reddit.com/r/wallpaper/comments/k65xmv/github_wallpaper_1920x1080/>
+<p align="left"> <img src="https://www.reddit.com/r/wallpaper/comments/k65xmv/github_wallpaper_1920x1080](https://www.reddit.com/r/wallpaper/comments/k65xmv/github_wallpaper_1920x1080/#lightbox"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosdvargas" alt="brunosdvargas" /></a> </p>
 
