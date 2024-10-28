@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosdvargas&label=Profile%20views&color=0e75b6&style=flat" alt="brunosdvargas" /> </p>
 <img src="https://github.com/user-attachments/assets/8c969e12-ac53-4aca-a0f1-689253fc1856"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosdvargas&show_icons=true&theme=dracula)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brunosdvargas&theme=onedark)](https://github.com/brunosdvargas/github-profile-trophy)
 
