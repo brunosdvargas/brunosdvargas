@@ -6,7 +6,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brunosdvargas&theme=onedark)](https://github.com/brunosdvargas/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2
 
 
 <p align="left"> <a href="https://twitter.com/brunosdvargas" target="blank"><img src="https://img.shields.io/twitter/follow/brunosdvargas?logo=twitter&style=for-the-badge" alt="brunosdvargas" /></a> </p>
