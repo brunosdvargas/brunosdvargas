@@ -19,8 +19,6 @@
 
 - 📫 You can reach me via **brunosdvargas@gmail.com**
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosdvargas&show_icons=true&theme=dracula)
-
 
 
 
