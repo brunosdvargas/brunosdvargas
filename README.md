@@ -8,7 +8,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=brunosdvargas&column=-1?username=brunosdvargas&theme=onedark)
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunosdvargas&theme=monokai-metallian&border_radius=0&card_width=450)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunosdvargas&theme=monokai-metallian&border_radius=0&card_width=450)]
 
 
 
