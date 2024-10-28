@@ -4,8 +4,9 @@
 <img src="https://github.com/user-attachments/assets/8c969e12-ac53-4aca-a0f1-689253fc1856"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosdvargas" alt="brunosdvargas" /></a> </p>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=brunosdvargas ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosdvargas-ma&theme=darkhub" alt="brunosdvargas" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/brunosdvargas" target="blank"><img src="https://img.shields.io/twitter/follow/brunosdvargas?logo=twitter&style=for-the-badge" alt="brunosdvargas" /></a> </p>
 
