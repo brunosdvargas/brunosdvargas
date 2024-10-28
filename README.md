@@ -1,31 +1,25 @@
-<div style= "display: inline_block"><br/>
-<img align= "center" src="https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg?w=740&t=st=1698073382~exp=1698073982~hmac=bddc4ddf25defe2ef26ad892338c5b39b9944385dfc9de52ad7b37f05bca03c1"
-width="640" height="320"/>
-</div>
+<h3 align="center">I`am a learning and passionate developer from Brazil always looking forward to the next big project.</h3>
 
-### Hi, i am Bruno da Silva Vargas:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosdvargas&label=Profile%20views&color=0e75b6&style=flat" alt="brunosdvargas" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosdvargas" alt="brunosdvargas" /></a> </p>
 
-<div style><br/>
+<p align="left"> <a href="https://twitter.com/brunosdvargas" target="blank"><img src="https://img.shields.io/twitter/follow/brunosdvargas?logo=twitter&style=for-the-badge" alt="brunosdvargas" /></a> </p>
 
-<img src="https://i.pinimg.com/originals/86/55/29/865529be2c371912d0130ec93242487e.gif"
-width="640" height="320"/>
-</div>
+- 🔭 I’m currently working on **xinputtobluetooth**
 
+- 📫 How to reach me **brunosdvaragas@gmail.com**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-vargas-66321b248)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/brunosdvargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunosdvargas" height="30" width="40" /></a>
+</p>
 
-![Brunosdvargas stats](https://github-readme-stats.vercel.app/api?username=brunosdvargas&show_icons=true&bg_color=00000000)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### Daily Languages:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosdvargas&show_icons=true&locale=en&layout=compact" alt="brunosdvargas" /></p>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="html5"src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-<img align="center" alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunosdvargas&show_icons=true&locale=en" alt="brunosdvargas" /></p>
 
-
-
-</div><br/>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosdvargas&" alt="brunosdvargas" /></p>
