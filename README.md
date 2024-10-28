@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosdvargas&label=Profile%20views&color=0e75b6&style=flat" alt="brunosdvargas" /> </p>
 <img src="https://github.com/user-attachments/assets/8c969e12-ac53-4aca-a0f1-689253fc1856"/>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/brunosdvargasryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
 
 
 <p align="left"> <a href="https://twitter.com/brunosdvargas" target="blank"><img src="https://img.shields.io/twitter/follow/brunosdvargas?logo=twitter&style=for-the-badge" alt="brunosdvargas" /></a> </p>
