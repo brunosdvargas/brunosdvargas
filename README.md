@@ -8,14 +8,16 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=brunosdvargas&column=-1?username=brunosdvargas&theme=onedark)
 
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunosdvargas&theme=monokai-metallian&border_radius=0&card_width=450)](https://git.io/streak-stats)
+
+
+
 
 <p align="left"> <a href="https://twitter.com/brunosdvargas" target="blank"><img src="https://img.shields.io/twitter/follow/brunosdvargas?logo=twitter&style=for-the-badge" alt="brunosdvargas" /></a> </p>
 
 - 🔭 I’m currently working on **xinputtobluetooth**
 
 - 📫 You can reach me via **brunosdvargas@gmail.com**
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunosdvargas&theme=monokai-metallian&border_radius=0&card_width=450)](https://git.io/streak-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosdvargas&show_icons=true&theme=dracula)
 
