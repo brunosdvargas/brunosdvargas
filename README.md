@@ -1,7 +1,7 @@
 <h3 align="center">I`am a learning and passionate developer from Brazil always looking forward to the next big project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosdvargas&label=Profile%20views&color=0e75b6&style=flat" alt="brunosdvargas" /> </p>
-<img src="https://github.com/user-attachments/assets/5bdb83b7-bc30-4446-b3fd-dffbba22ed0e"/>
+<img src="https://github.com/user-attachments/assets/8c969e12-ac53-4aca-a0f1-689253fc1856"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosdvargas" alt="brunosdvargas" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **xinputtobluetooth**
 
-- 📫 How to reach me **brunosdvaragas@gmail.com**
+- 📫 You can reach me via **brunosdvargas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
