@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunosdvargas" alt="brunosdvargas" /></a> </p>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=brunosdvargas ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"
 
 <p align="left"> <a href="https://twitter.com/brunosdvargas" target="blank"><img src="https://img.shields.io/twitter/follow/brunosdvargas?logo=twitter&style=for-the-badge" alt="brunosdvargas" /></a> </p>
 
