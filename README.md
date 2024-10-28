@@ -5,7 +5,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brunosdvargas&theme=onedark)](https://github.com/brunosdvargas/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2))](https://github.com/brunosdvargas/github-profile-trophy)
 https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2
 
 
