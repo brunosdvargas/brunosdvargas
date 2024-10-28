@@ -1,4 +1,4 @@
-<h3 align="center">I`am a learning and passionate developer from Brazil always looking forward to the next big project.</h3>
+<h3 align="center">I am a learning and passionate developer from Brazil always looking forward to the next big project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosdvargas&label=Profile%20views&color=0e75b6&style=flat" alt="brunosdvargas" /> </p>
 <img src="https://github.com/user-attachments/assets/8c969e12-ac53-4aca-a0f1-689253fc1856"/>
