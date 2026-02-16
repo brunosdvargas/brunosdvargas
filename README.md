@@ -1,7 +1,6 @@
 <h3 align="center">I am a learning and passionate developer from Brazil always looking forward to the next big project.</h3>
 
 
-<img src="https://github.com/user-attachments/assets/8c969e12-ac53-4aca-a0f1-689253fc1856"/>
 
 
 
